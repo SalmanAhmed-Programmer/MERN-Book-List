@@ -217,3 +217,4 @@ The frontend will run at: `http://localhost:5173`
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+I Only Deploy Frontend on vercel

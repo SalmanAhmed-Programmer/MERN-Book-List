@@ -163,10 +163,11 @@ The frontend will run at: `http://localhost:5173`
 ## 📖 Usage
 
 1. Open `http://localhost:5173` in your browser
-2. The **Home** page shows all books — toggle between **Table** and **Card** view
-3. Click the **➕** icon to add a new book
-4. Use the action icons on each book to **view**, **edit**, or **delete**
-5. All actions show toast notifications confirming success or failure
+2. I Only Deploy Frontend on vercel
+3. The **Home** page shows all books — toggle between **Table** and **Card** view
+4. Click the **➕** icon to add a new book
+5. Use the action icons on each book to **view**, **edit**, or **delete**
+6. All actions show toast notifications confirming success or failure
 
 ---
 
@@ -217,4 +218,4 @@ The frontend will run at: `http://localhost:5173`
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-I Only Deploy Frontend on vercel
+
